@@ -2,7 +2,7 @@
   "name": "prompt-snippets",
   "displayName": "Prompt Snippets",
   "description": "Markdown-based prompt snippets management",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "publisher": "iamgm",
   "repository": {
     "type": "git",
