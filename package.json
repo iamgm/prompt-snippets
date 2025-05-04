@@ -41,6 +41,9 @@
   "dependencies": {
     "js-yaml": "^4.1.0"
   },
+  "bundledDependencies": [
+    "js-yaml"
+  ],
   "contributes": {
     "commands": [
       {
