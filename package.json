@@ -55,7 +55,10 @@
       "title": "Prompt Snippets",
       "properties": {
         "promptSnippets.directoryPath": {
-          "type": ["string", "null"],
+          "type": [
+            "string",
+            "null"
+          ],
           "default": null,
           "description": "REQUIRED: Full path to the directory containing your prompt Markdown (.md) files.",
           "scope": "resource"
