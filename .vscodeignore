@@ -4,6 +4,7 @@ src/**
 .git*
 tsconfig.json
 webpack.config.js
+dist/*.map
 *.vsix
 *.log
 *.DS_Store 
